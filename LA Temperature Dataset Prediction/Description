@@ -1,0 +1,3 @@
+This code analyzes a dataset about December temperatures in Los Angeles. 
+It uses logistic regression and machine learning to forecast the temperature in Los Angeles for the next few days.
+According to the table, the predictions were generally one degree Farenheit off the true temperature.
